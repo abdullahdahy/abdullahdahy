@@ -69,7 +69,7 @@ ul{
 
 /* start header */
 .header{
-    background: url(../images/header.jpg);
+    background: url(images/header.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -186,7 +186,7 @@ ul{
 
 /* start subscribe */
 .subscribe{
-    background: url(../images/subscribe.jpg);
+    background: url(images/subscribe.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -316,7 +316,7 @@ ul{
 
 /* start testimonials */
 .testim{
-    background: url(../images/testimonials.jpg);
+    background: url(images/testimonials.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -415,7 +415,7 @@ ul{
 
 /* end contact-form */
 .contact{
-    background: url(../images/city.jpg);
+    background: url(images/city.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
